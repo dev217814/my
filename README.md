@@ -83,56 +83,6 @@
 ✨ <i>Every tool mastered, every skill honed - all to create digital magic</i> ✨
 </div>
 
----
-
-
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/VIDAKHOSHPEY22">
-        <img src="https://github.com/VIDAKHOSHPEY22.png?size=200" width="160" style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 8px 16px rgba(138, 43, 226, 0.3);" alt="Vida"/>
-        <br />
-        <sub>
-          <b style="color: #8A2BE2; font-size: 1.2em;">Vida</b>
-        </sub>
-      </a>
-      <br />
-      <span style="font-size: 1em;">
-        🧠 Full-Stack Developer<br/>
-        🤖 AI & ML Specialist<br/>
-        🔗 Blockchain Enthusiast
-      </span>
-      <br /><br />
-      <a href="https://github.com/VIDAKHOSHPEY22">
-        <img src="https://img.shields.io/badge/-Vida's_Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vida's GitHub"/>
-      </a>
-    </td>
-    <td align="center" width="100">
-      <span style="font-size: 3em; color: #DA70D6;">👯</span>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/YALDAKHOSHPEY">
-        <img src="https://github.com/YALDAKHOSHPEY.png?size=200" width="160" style="border-radius: 50%; border: 4px solid #BA55D3; box-shadow: 0 8px 16px rgba(186, 85, 211, 0.3);" alt="Yalda"/>
-        <br />
-        <sub>
-          <b style="color: #BA55D3; font-size: 1.2em;">Yalda</b>
-        </sub>
-      </a>
-      <br />
-      <span style="font-size: 1em;">
-        🎨 UI/UX Specialist<br/>
-        🖌️ WordPress Wizard<br/>
-        🌈 Front-End Artist
-      </span>
-      <br /><br />
-      <a href="https://github.com/YALDAKHOSHPEY">
-        <img src="https://img.shields.io/badge/-Yalda's_Profile-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="Yalda's GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   
