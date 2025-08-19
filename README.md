@@ -85,18 +85,7 @@
 
 ---
 
-<h2 align="center" style="color:#d63031; margin: 0;">
-  💫 Ranked among the best GitHub Coders in Iran🇮🇷
-</h2>
 
-<p align="center" style="margin: 10px 0;">
-  <a href="https://committers.top/iran" target="_blank">
-    <img src="https://user-badge.committers.top/iran/YALDAKHOSHPEY.svg?v=1" 
-         alt="Top GitHub Contributor in Iran" 
-         width="160" 
-         style="vertical-align: middle;" />
-  </a>
-</p>
 
 
 <table align="center">
@@ -251,8 +240,41 @@ Let’s create something beautiful — one div at a time! 🚀
 </div>
 
 
+## 😼 Meme Vibes
+
+**👯‍♀️ Yalda & Vida**🎇
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
+  <br/>
+  <em>"Typing like a legend. Panicking like a human." 😹</em>
+</p>
+## 🏆 GitHub Trophies
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=YALDAKHOSHPEY&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10&column=6&title=MultiLanguage,Repositories,Commit,Stars,PullRequest,Issue)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+## 💖 Support My Work
+
+Hello there! 👋  
+Unfortunately, **GitHub Sponsors** isn’t available in my country yet.  
+But your support means the world to me! Here are some simple and safe ways to fuel my open-source journey and learning adventures:
+
+---
+
+### 💳 Support via Iranian Bank (BluBank)
+
+If you're in Iran 🇮🇷 and would like to support me directly, you can scan the BluBank QR code below or use the card number provided.
+
+<p align="center">
+  <img src="https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY/blob/15ba06cea6394b55f763ae2c109d97183323c638/BluBank_User_QR_1404_4_18_003122.jpg?raw=true" alt="BluBank QR Code" width="220" />
+</p>
+
+<div align="center" style="font-size:1.1em; font-weight:bold; margin-bottom: 1em;">
+  Card Number: <code>6219-8619-4998-5955</code><br/>
+  <small>(BluBank - Bank Saman)<br/>Account Holder: Yalda Khoshpey</small>
+</div>
 
 ---
 
